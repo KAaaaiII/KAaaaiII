@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-	
+	int nl
+	cin>>n; 
 		return 0;
 	}
 }
