@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	int nl
+	int n;
 	cin>>n; 
 		return 0;
 	}
